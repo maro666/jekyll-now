@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: 关于我
 permalink: /about/
 ---
 
-Some information about you!
+SEO从业者,自学PHP,Python以及一切感兴趣的新技术!
 
-### More Information
+### 联系我
 
-A place to include any other types of information that you'd like to include about yourself. 
+QQ:365206501
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[maro666@126.com](mailto:maro666@126.com)
